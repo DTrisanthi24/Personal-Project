@@ -10,4 +10,4 @@ This Project is based on Analysis of Data for Real Time Application **BlinkIT Gr
 **Power Point Presentation of this Project**
 >>[Project PPT.pptx](https://github.com/user-attachments/files/18017756/Project.PPT.pptx)
 
- 
+<<<In this project we can observe the data on our queries easily. Based on query We can make dashboards from the data>>>
